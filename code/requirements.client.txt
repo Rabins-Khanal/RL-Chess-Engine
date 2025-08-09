@@ -1,0 +1,12 @@
+python-chess
+matplotlib
+numpy
+pandas==2.2.2
+tqdm
+typing_extensions
+graphviz
+pygame
+pygame-popup
+python-dotenv
+tensorflow-macos==2.12.0
+tensorflow-metal==1.0.0
